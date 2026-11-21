@@ -122,4 +122,4 @@ export const fakePostBodies = [
   "Neuralink's brain implants are going to change the world. Imagine being able to download knowledge directly into your brain.",
   "The Tesla Model X is the safest SUV ever tested. We're serious about safety.",
   "We're going to create a self-sustaining city on Mars. It's not a question of if, but when.",
-];
+];
