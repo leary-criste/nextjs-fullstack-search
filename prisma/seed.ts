@@ -62,4 +62,4 @@ const insertFakePosts = async () => {
  */
 const deleteAllUsers = async () => {
   return await prisma.user.deleteMany({});
-};
+};
